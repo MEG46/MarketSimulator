@@ -1,0 +1,30 @@
+C:\Users\ESAD\source\repos\MarketSimulator\MarketSimulator\bin\Debug\net6.0\MarketSimulator.exe
+C:\Users\ESAD\source\repos\MarketSimulator\MarketSimulator\bin\Debug\net6.0\MarketSimulator.deps.json
+C:\Users\ESAD\source\repos\MarketSimulator\MarketSimulator\bin\Debug\net6.0\MarketSimulator.runtimeconfig.json
+C:\Users\ESAD\source\repos\MarketSimulator\MarketSimulator\bin\Debug\net6.0\MarketSimulator.dll
+C:\Users\ESAD\source\repos\MarketSimulator\MarketSimulator\bin\Debug\net6.0\MarketSimulator.pdb
+C:\Users\ESAD\source\repos\MarketSimulator\MarketSimulator\obj\Debug\net6.0\MarketSimulator.csproj.AssemblyReference.cache
+C:\Users\ESAD\source\repos\MarketSimulator\MarketSimulator\obj\Debug\net6.0\MarketSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESAD\source\repos\MarketSimulator\MarketSimulator\obj\Debug\net6.0\MarketSimulator.AssemblyInfoInputs.cache
+C:\Users\ESAD\source\repos\MarketSimulator\MarketSimulator\obj\Debug\net6.0\MarketSimulator.AssemblyInfo.cs
+C:\Users\ESAD\source\repos\MarketSimulator\MarketSimulator\obj\Debug\net6.0\MarketSimulator.csproj.CoreCompileInputs.cache
+C:\Users\ESAD\source\repos\MarketSimulator\MarketSimulator\obj\Debug\net6.0\MarketSimulator.dll
+C:\Users\ESAD\source\repos\MarketSimulator\MarketSimulator\obj\Debug\net6.0\refint\MarketSimulator.dll
+C:\Users\ESAD\source\repos\MarketSimulator\MarketSimulator\obj\Debug\net6.0\MarketSimulator.pdb
+C:\Users\ESAD\source\repos\MarketSimulator\MarketSimulator\obj\Debug\net6.0\MarketSimulator.genruntimeconfig.cache
+C:\Users\ESAD\source\repos\MarketSimulator\MarketSimulator\obj\Debug\net6.0\ref\MarketSimulator.dll
+C:\Users\ESAD\Desktop\2023\Basic C# Project\5 - MarketSimulator\MarketSimulator\bin\Debug\net6.0\MarketSimulator.exe
+C:\Users\ESAD\Desktop\2023\Basic C# Project\5 - MarketSimulator\MarketSimulator\bin\Debug\net6.0\MarketSimulator.deps.json
+C:\Users\ESAD\Desktop\2023\Basic C# Project\5 - MarketSimulator\MarketSimulator\bin\Debug\net6.0\MarketSimulator.runtimeconfig.json
+C:\Users\ESAD\Desktop\2023\Basic C# Project\5 - MarketSimulator\MarketSimulator\bin\Debug\net6.0\MarketSimulator.dll
+C:\Users\ESAD\Desktop\2023\Basic C# Project\5 - MarketSimulator\MarketSimulator\bin\Debug\net6.0\MarketSimulator.pdb
+C:\Users\ESAD\Desktop\2023\Basic C# Project\5 - MarketSimulator\MarketSimulator\obj\Debug\net6.0\MarketSimulator.csproj.AssemblyReference.cache
+C:\Users\ESAD\Desktop\2023\Basic C# Project\5 - MarketSimulator\MarketSimulator\obj\Debug\net6.0\MarketSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESAD\Desktop\2023\Basic C# Project\5 - MarketSimulator\MarketSimulator\obj\Debug\net6.0\MarketSimulator.AssemblyInfoInputs.cache
+C:\Users\ESAD\Desktop\2023\Basic C# Project\5 - MarketSimulator\MarketSimulator\obj\Debug\net6.0\MarketSimulator.AssemblyInfo.cs
+C:\Users\ESAD\Desktop\2023\Basic C# Project\5 - MarketSimulator\MarketSimulator\obj\Debug\net6.0\MarketSimulator.csproj.CoreCompileInputs.cache
+C:\Users\ESAD\Desktop\2023\Basic C# Project\5 - MarketSimulator\MarketSimulator\obj\Debug\net6.0\MarketSimulator.dll
+C:\Users\ESAD\Desktop\2023\Basic C# Project\5 - MarketSimulator\MarketSimulator\obj\Debug\net6.0\refint\MarketSimulator.dll
+C:\Users\ESAD\Desktop\2023\Basic C# Project\5 - MarketSimulator\MarketSimulator\obj\Debug\net6.0\MarketSimulator.pdb
+C:\Users\ESAD\Desktop\2023\Basic C# Project\5 - MarketSimulator\MarketSimulator\obj\Debug\net6.0\MarketSimulator.genruntimeconfig.cache
+C:\Users\ESAD\Desktop\2023\Basic C# Project\5 - MarketSimulator\MarketSimulator\obj\Debug\net6.0\ref\MarketSimulator.dll
